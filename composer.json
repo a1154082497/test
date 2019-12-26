@@ -1,0 +1,15 @@
+{
+    "name": "test/test",
+    "authors": [
+        {
+            "name": "hktk",
+            "email": "1106935565@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "test\\": "src/"
+        }
+    }
+}
