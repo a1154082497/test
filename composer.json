@@ -1,5 +1,5 @@
 {
-    "name": "hktktest/hktktest",
+    "name": "hktk/test",
     "authors": [
         {
             "name": "hktk",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "hktktest\\": "src/"
+            "test\\": "src/"
         }
     }
 }
